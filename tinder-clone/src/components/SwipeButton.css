@@ -1,0 +1,38 @@
+.Swipe-button {
+	position: fixed;
+	bottom: 10vh;
+	display: flex;
+	width: 90%;
+	justify-content: space-evenly;
+}
+
+
+.Swipe-button-repeat {
+	padding: 3vw;
+	background-color: white !important;
+	color: blue !important;
+}
+
+.Swipe-button-left {
+	padding: 3vw;
+	background-color: white !important;
+	color: brown !important;
+}
+
+.Swipe-button-star {
+	padding: 3vw;
+	background-color: white !important;
+	color: rgb(199, 199, 0) !important;
+}
+
+.Swipe-button-right {
+	padding: 3vw;
+	background-color: white !important;
+	color: red !important;
+}
+
+.Swipe-button-lightning {
+	padding: 3vw;
+	background-color: white !important;
+	color: gold !important;
+}
